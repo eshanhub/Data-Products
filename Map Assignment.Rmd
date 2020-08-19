@@ -1,5 +1,5 @@
 ---
-title: "My First Leaflet Map"
+title: "Leaflet Map"
 author: "Eshan Samanta"
 date: "19/08/2020"
 output: html_document
